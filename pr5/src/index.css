@@ -1,0 +1,41 @@
+.form-bg {
+  width: 100%;
+  height: 91.2vh;
+  background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+}
+
+.userbg{
+  width: 100%;
+  height: 91.2vh;
+}
+
+.user-bg {
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+}
+
+.logo{
+  width: 40px;
+}
+
+.card-body .card-title {
+  font-size: 30px;
+  color: black;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+
+.card-body span {
+  font-size: 20px;
+  color: rgb(87, 79, 79);
+}
+
+.card-body h5 {
+  font-size: 20px;
+  color: rgb(22, 19, 19);
+}
+
+.nav-link,.navbar-brand,.navbar-toggler-icon{
+  color: white!important;
+}
