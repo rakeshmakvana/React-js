@@ -1,0 +1,36 @@
+.hd-bg {
+    background-color: rgb(100, 67, 124);
+}
+
+.hd-icon,
+.hd-icon span {
+    font-size: 18px;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 0px;
+    text-decoration: none;
+}
+
+.fr-bg {
+    background-color: rgb(100, 67, 124);
+}
+
+.fr-bg h2 {
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+.fr-border {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.vw-br {
+    border-bottom: 2px solid black;
+}
+
+.vw-btn button {
+    border: none;
+    background: transparent;
+}
